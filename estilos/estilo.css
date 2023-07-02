@@ -69,12 +69,12 @@ section.imagem > p {
 }
 
 section#img1{
-    background-image: url("../pacote-d012/imagens/background001.jpg");
+    background-image: url("../imagem/imagens/background001.jpg");
     background-position: right center;
 }
 
 section#img2{
-    background-image: url("../pacote-d012/imagens/background002.jpg");
+    background-image: url("../imagem/imagens/background002.jpg");
     background-position: right center;
 }
 
